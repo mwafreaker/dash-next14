@@ -6,6 +6,12 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
+  --primary-plain: #03045E;
+  --primary-hover: #023E8A;
+  --secondary-plain: #0077B6;
+  --secondary-hover: #0096C7;
+  --tertiary-plain: #00B4D8;
+  --tertiary-plain: #48CAE4;
 }
 
 @media (prefers-color-scheme: dark) {
