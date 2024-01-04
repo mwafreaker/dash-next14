@@ -7,7 +7,7 @@ export default function Home() {
         <strong>Ong'owo</strong>
         <ul className='flex flex-col'>
           <li>about</li>
-          <li>about</li>
+          <li>Projects</li>
           <li>about</li>
         </ul>
       </p>
